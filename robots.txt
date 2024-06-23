@@ -15,3 +15,6 @@ Disallow: /
 
 User-Agent: omgilibot
 Disallow: /
+
+User-Agent: Applebot
+Disallow: /
